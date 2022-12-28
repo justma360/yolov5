@@ -1,0 +1,9 @@
+# airport yaml file generated at 17/11/2022 12:28:26
+path: ../yolov5/datasets/airport
+train: train.txt
+val: validation.txt
+names:
+  0: car
+  1: motorcycle
+  2: truck
+  3: vehicle_registration_plate
